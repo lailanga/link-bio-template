@@ -131,3 +131,9 @@ Desenvolvido por **Laiane**
 ## 📄 Licença
 
 Este projeto está sob a licença MIT.
+
+## 💼 Uso comercial
+
+Este projeto pode ser utilizado livremente.
+
+Caso queira uma versão personalizada para o seu negócio, entre em contato.
