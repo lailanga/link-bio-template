@@ -1,23 +1,23 @@
 export const siteConfig = {
   type: "restaurant", // "service" "restaurant"
 
-  name: "Cupim Churrascaria",
-  headline: "Carne na brasa todos os dias 🔥",
-  subheadline: "Almoço completo, sabor de verdade em Sapezal",
+  name: "nome empresa",
+  headline: "titulo principal 🔥",
+  subheadline: "titulo secundario",
 
-  whatsapp: "5565993375455",
+  whatsapp: "559999999999",
 
   links: {
-    maps: "https://maps.google.com/?q=Churrascaria+Cupim+Sapezal",
-    instagram: "https://instagram.com/cupimchurrascaria",
+    maps: "#",
+    instagram: "#",
   },
 
   rating: "4.5",
-  city: "Sapezal - MT",
-  hours: "Hoje 11:00 às 13:30",
-  day: "Aberto todos os dias",
+  city: "local",
+  hours: "horario",
+  day: "descrição",
 
-  promo: "🔥 Promoção do dia: Marmita especial",
+  promo: "🔥 Promoção do dia: ",
 
   image: {
   background: "/images/bg.jpg",
