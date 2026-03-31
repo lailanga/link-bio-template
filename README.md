@@ -8,7 +8,7 @@ Página profissional de **link na bio** para negócios locais (restaurantes, pre
 
 <!-- Substitua por um print real -->
 
-![Preview do projeto](./preview.png)
+![Preview](./preview.png)
 
 ---
 
