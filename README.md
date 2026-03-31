@@ -67,7 +67,7 @@ src/
 ### 1. Clonar repositório
 
 ```bash
-git clone https://github.com/seu-usuario/link-bio-template.git
+git clone https://github.com/lailanga/link-bio-template.git
 ```
 
 ### 2. Entrar na pasta
