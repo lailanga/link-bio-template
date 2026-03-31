@@ -12,12 +12,6 @@ Página profissional de **link na bio** para negócios locais (restaurantes, pre
 
 ---
 
-## 🚀 Acesse online
-
-👉 https://seu-link-vercel.app
-
----
-
 ## 💼 Sobre o projeto
 
 Este projeto foi desenvolvido para transformar o link da bio em uma **ferramenta de conversão**, não apenas uma lista de links.
